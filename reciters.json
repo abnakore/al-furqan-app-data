@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Ahmed El Ajmy",
+        "name": "Abdullahi Nakore",
         "qiraat": "Tajweed • Hafs 'an 'Asim",
         "country": "Egypt",
         "style": "Tajweed",
@@ -233,7 +233,6 @@
         "popularity": 9.2,
         "audioUrl": "https://server11.mp3quran.net/a_jbr/"
     },
-
     {
         "id": 19,
         "name": "Ghassan Al Shorbaji",
